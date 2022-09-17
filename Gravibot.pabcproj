@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="Gravibot" MainFile="Gravibot.pas" OutputFileName="Gravibot.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="False" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="False" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="Gravibot.pas" Path="Gravibot.pas" />
+    <Item Type="SourceFile" Name="Ticker.pas" Path="Ticker.pas" />
+    <Item Type="SourceFile" Name="CreateOrders.pas" Path="CreateOrders.pas" />
+    <Item Type="SourceFile" Name="GetOrders.pas" Path="GetOrders.pas" />
+    <Item Type="SourceFile" Name="Loger.pas" Path="Loger.pas" />
+    <Item Type="SourceFile" Name="CoinAvailabilty.pas" Path="CoinAvailabilty.pas" />
+    <Item Type="SourceFile" Name="OrdersHistory.pas" Path="OrdersHistory.pas" />
+    <Item Type="SourceFile" Name="Depth.pas" Path="Depth.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+    <Item Type="Reference" AssemblyName="Newtonsoft.Json" FullAssemblyName="Newtonsoft.Json.dll" />
+    <Item Type="Reference" AssemblyName="System.Xml" FullAssemblyName="System.Xml.dll" />
+    <Item Type="Reference" AssemblyName="System.Drawing" FullAssemblyName="System.Drawing.dll" />
+    <Item Type="Reference" AssemblyName="System.Windows.Forms" FullAssemblyName="System.Windows.Forms.dll" />
+    <Item Type="Reference" AssemblyName="System.Data" FullAssemblyName="System.Data.dll" />
+  </Items>
+</Project>
